@@ -23,8 +23,9 @@
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　　｀￣´
 ```
 
-I'm a graduate school student majoring informatics!
-I'm majoring social media analysis, UI/UX, information retrieval.
+Hi! I'm a graduate school student majoring informatics!
+
+I'm studying social media analysis, UI/UX, and information retrieval.
 
 コンにちは。現在修士課程にいます白狐（びゃっこ）といいます。
 ソーシャルメディア分析とか UI/UX とか情報検索とかあたりがすきです。
