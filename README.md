@@ -24,11 +24,7 @@
 ```
 
 Hi! I'm a graduate school student majoring informatics!
-
 I'm studying social media analysis, UI/UX, and information retrieval.
-
-コンにちは。現在修士課程にいます白狐（びゃっこ）といいます。
-ソーシャルメディア分析とか UI/UX とか情報検索とかあたりがすきです。
 
 - 📝 My Portfolio : https://whitefox-lugh.github.io/
 - 🔭 I’m currently working on ...
@@ -45,7 +41,7 @@ I'm studying social media analysis, UI/UX, and information retrieval.
   - JavaScript (Office assistant : making web tools -> https://midialignment.github.io/demo.html)
   - OCaml
   - Java (Teaching assistant for "introduction to programming language")
-- 🤔 lack of time due to assignment from graduate school...
+  - Golang (twitter bot)
 
 <!--
 **WhiteFox-Lugh/WhiteFox-Lugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
