@@ -42,6 +42,7 @@ I'm studying social media analysis, UI/UX, and information retrieval.
   - OCaml
   - Java (Teaching assistant for "introduction to programming language")
   - Golang (twitter bot)
+  - Ruby on Rails (workshop, Q&A system for graduate school)
 
 <!--
 **WhiteFox-Lugh/WhiteFox-Lugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
