@@ -27,13 +27,6 @@ Hi! I'm a graduate school student majoring informatics!
 I'm studying social media analysis, UI/UX, and information retrieval.
 
 - 📝 My Portfolio : https://whitefox-lugh.github.io/
-- 🔭 I’m currently working on ...
-  - workshop (Ruby on Rails)
-  - Teachng assistant
-- 🔧 I'm going to make ...
-  - typing game
-  - SDVX table tool on browser
-  - original diary tool
 - 💻 I've learned ...
   - Python　(machine learning, graduation thesis, data analysis...)
   - C# (Unity, Windows form application...)
@@ -43,6 +36,15 @@ I'm studying social media analysis, UI/UX, and information retrieval.
   - Java (Teaching assistant for "introduction to programming language")
   - Golang (twitter bot)
   - Ruby on Rails (workshop, Q&A system for graduate school)
+  
+レポジトリの説明
+
+- ws-8/WS-8 : 技育展「CyQlone」
+- FoxTyping : 開発中のタイピングゲーム
+- score-performance-match-editor : 音声情報処理の研究室のソフト（Web 版）
+- fox-info-bot : きつねbot（twitter）
+- Ex4-dip : 画像処理実験(numpy のみで mnist 分類、 Keras の練習）
+- Ex3_interpreter : OCaml で ML のインタプリタ作成
 
 <!--
 **WhiteFox-Lugh/WhiteFox-Lugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
