@@ -23,11 +23,10 @@
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　　｀￣´
 ```
 
-Hi! I'm a graduate school student majoring informatics!
-I'm studying social media analysis, UI/UX, and information retrieval.
+こんにちは。修士1年目のおきつねです。crowdsourcing の研究をしております。
 
 - 📝 My Portfolio : https://whitefox-lugh.github.io/
-- 💻 I've learned ...
+- 💻 学んだこと
   - Python　(machine learning, graduation thesis, data analysis...)
   - C# (Unity, Windows form application...)
   - C++ (Competition programming)
@@ -36,6 +35,12 @@ I'm studying social media analysis, UI/UX, and information retrieval.
   - Java (Teaching assistant for "introduction to programming language")
   - Golang (twitter bot)
   - Ruby on Rails (workshop, Q&A system for graduate school)
+- 現在学ぼうとしていること
+  - JavaScript をレファレンス見ながら自己流で書いていたので、JavaScript の入門書を1冊読む
+  - 上記にちなんで、モダンなフレームワークを一つ学ぶ（Vue.js）
+- 開発中
+  - fox-calendar : 行ったタスクを書き込むカレンダー
+  - fox-info-bot : 自分のアカウントに紐づいた bot、↑のカレンダーと連動予定
   
 レポジトリの説明
 
