@@ -25,7 +25,6 @@
 
 こんにちは。修士1年目のおきつねです。crowdsourcing の研究をしております。
 
-- 📝 My Portfolio : https://whitefox-lugh.github.io/
 - 💻 学んだこと
   - Python　(machine learning, graduation thesis, data analysis...)
   - C# (Unity, Windows form application...)
