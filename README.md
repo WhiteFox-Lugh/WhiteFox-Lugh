@@ -35,16 +35,10 @@
   - Java (Teaching assistant for "introduction to programming language")
   - Golang (twitter bot)
   - Ruby on Rails (workshop, Q&A system for graduate school)
-- 現在学ぼうとしていること
-  - JavaScript をレファレンス見ながら自己流で書いていたので、JavaScript の入門書を1冊読む
-  - 上記にちなんで、モダンなフレームワークを一つ学ぶ（Vue.js）
-- 開発中
-  - fox-calendar : 行ったタスクを書き込むカレンダー
-  - fox-info-bot : 自分のアカウントに紐づいた bot、↑のカレンダーと連動予定
   
 レポジトリの説明
 
-- ws-8/WS-8 : 技育展「CyQlone」
+- ws-8/WS-8 : 技育展
 - FoxTyping : アドベントカレンダーで実装したタイピングゲーム
 - score-performance-match-editor : 音声情報処理の研究室のソフト（Web 版）
 - fox-info-bot : きつねbot（twitter）
