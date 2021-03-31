@@ -23,7 +23,7 @@
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　　｀￣´
 ```
 
-こんにちは。修士1年目のおきつねです。crowdsourcing の研究をしております。
+こんにちは。修士のおきつねです。crowdsourcing の研究をしております。
 
 - 💻 学んだこと
   - Python　(machine learning, graduation thesis, data analysis...)
@@ -37,6 +37,7 @@
   
 レポジトリの説明
 
+- img-filter : 画像にフィルタをかけるだけのプログラム
 - ws-8/WS-8 : 技育展
 - FoxTyping : アドベントカレンダーで実装したタイピングゲーム
 - score-performance-match-editor : 音声情報処理の研究室のソフト（Web 版）
