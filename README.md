@@ -39,7 +39,7 @@
 
 - img-filter : 画像にフィルタをかけるだけのプログラム
 - ws-8/WS-8 : 技育展
-- FoxTyping : アドベントカレンダーで実装したタイピングゲーム
+- FoxTyping_Beta : アドベントカレンダーで実装したタイピングゲーム
 - score-performance-match-editor : 音声情報処理の研究室のソフト（Web 版）
 - fox-info-bot : きつねbot（twitter）
 - Ex4-dip : 画像処理実験(numpy のみで mnist 分類、 Keras の練習）
