@@ -23,8 +23,6 @@
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　　｀￣´
 ```
 
-こんにちは。修士のおきつねです。crowdsourcing の研究をしております。
-
 - 💻 学んだこと
   - Python　(machine learning, graduation thesis, data analysis...)
   - C# (Unity, Windows form application...)
