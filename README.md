@@ -23,7 +23,7 @@
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　 　　｀￣´
 ```
 
-- 💻 学んだこと
+- 💻 What I've learned
   - Python　(machine learning, graduation thesis, data analysis...)
   - C# (Unity, Windows form application...)
   - C++ (Competition programming)
@@ -33,9 +33,9 @@
   - Golang (twitter bot)
   - Ruby on Rails (workshop, Q&A system for graduate school)
   
-レポジトリの説明
+Description of repos
 
-- FoxTyping : 開発中のタイピングゲーム
+- FoxTyping : タイピングゲーム
 - img-filter : 画像にフィルタをかけるだけのプログラム
 - ws-8/WS-8 : 技育展2020に出したネタ
 - score-performance-match-editor : 音声情報処理の研究室のソフト（Web 版）
