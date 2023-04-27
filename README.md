@@ -25,7 +25,7 @@
 
 - 💻 What I've learned
   - Python　(machine learning, graduation thesis, data analysis...)
-  - C# (Unity, Windows form application...)
+  - C# (Unity, Windows form application, Blazor)
   - C++ (Competition programming)
   - JavaScript (Office assistant : making web tools -> https://midialignment.github.io/demo.html)
   - OCaml
@@ -35,13 +35,15 @@
   
 Description of repos
 
-- FoxTyping : タイピングゲーム
-- img-filter : 画像にフィルタをかけるだけのプログラム
-- ws-8/WS-8 : 技育展2020に出したネタ
-- score-performance-match-editor : 音声情報処理の研究室のソフト（Web 版）
-- fox-info-bot : きつねbot（twitter）
-- Ex4-dip : 画像処理実験(numpy のみで mnist 分類、 Keras の練習）
-- Ex3_interpreter : OCaml で ML のインタプリタ作成
+- MimicTypeGenerator : prototype of touch typing input model
+- kotonoha : WIP (typing practice website)
+- FoxTyping : タイピングゲーム / prototype of touch typing game
+- img-filter : 画像にフィルタをかけるだけのプログラム / image processing program (for studying)
+- ws-8/WS-8 : 技育展2020に出したネタ (Q&A System for academic students)
+- score-performance-match-editor : 音声情報処理の研究室のソフト（Web 版） / musical score display
+- fox-info-bot : きつねbot（twitter） / bot for twitter (but currently not working)
+- Ex4-dip : 画像処理実験(numpy のみで mnist 分類、 Keras の練習） / practice of image recognition
+- Ex3_interpreter : OCaml で ML のインタプリタ作成 / implement ML interpreter
 
 <!--
 **WhiteFox-Lugh/WhiteFox-Lugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
